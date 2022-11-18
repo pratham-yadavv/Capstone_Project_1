@@ -99,7 +99,7 @@ Mainly performed using Matplotlib and Seaborn library and the following graph an
    - Heatmap.
 - Box Plot
              
-###   Analysis:
+### Analysis:
 
 Performed analysis and made following conclusions:
 ```
@@ -115,9 +115,10 @@ Performed analysis and made following conclusions:
  10.) Most common stay length is less than 4 days and generally people prefer City hotel for short stay, but for long stays, Resort Hotel is preferred.
  11.) City hotel has significantly longer waiting time, hence City Hotel is much busier than Resort Hotel.
  12.) Almost 30 % of City Hotel bookings got canceled.
-
-## Conclusion
-
+ 
+```
+# Conclusion:
+ 
 ```
 (1) Around 60% bookings are for City hotel and 40% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel. Also the overall adr of City hotel is slightly higher than Resort hotel.
 (2) Mostly guests stay for less than 5 days in hotel and for longer stays Resort hotel is preferred.
