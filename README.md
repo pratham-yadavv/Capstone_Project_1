@@ -85,7 +85,7 @@ Performed EDA and tried answering the following questions:
  Q8)  Which hotel seems to make more revenue?
  Q9)  Which hotel has a higher lead time?
  Q10)  What is preferred stay length in each hotel?
- Q11)  Which channel has a  longer average waiting time?
+ Q11)  Which hotel has a  longer average waiting time?
  Q12) Which hotel has higher bookings cancellation rate.
 
 ```
